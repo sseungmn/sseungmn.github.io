@@ -26,7 +26,7 @@ layout: main
     </div>
 
     <!--draft 일 때-->
-
+    
     {% if page.draft == true %}
         <div class="catalogue-draft-message">
             <h1>
@@ -35,29 +35,29 @@ layout: main
             현재 열심히 글을 쓰고 있어요. 조금만 기다려주세요!
         </div>
     {% endif %}
-
+    
     {{ content }}
-
-    <a href="https://programmers.co.kr/competitions/1583/2021-cj-oliveyoung-challenge" target="_blank">
-        <div class="section recruit-challenge-banner">
-        </div>
+    
+    <a href="https://github.com/sseungmn" target="_blank">
+    		<div class="banner"></div>
     </a>
-
+    
     {% if page.hash-tag %}
     <div class="post-tags">
         {% include post-hashtag.html %}
     </div>
     {% endif %}
-
-    {% include post-footer.html %}
-
+    
+    <!--{% include post-footer.html %}-->
+    
     {% if page.layout == 'post' %}
         <script src="https://utteranc.es/client.js"
-                repo="oy-alldev/tech-blog-comment"
-                issue-term="pathname"
-                theme="preferred-color-scheme"
-                crossorigin="anonymous"
-                async>
-        </script>
+            repo="sseungmn/blog-comment"
+            issue-term="pathname"
+            theme="preferred-color-scheme"
+            crossorigin="anonymous"
+            async>
+    </script>
     {% endif %}
 </div>
+

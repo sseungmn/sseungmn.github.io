@@ -2,13 +2,13 @@
 layout: post
 type: troubleshooting
 date: 2021-07-15 21:28
-category: App
+category: Troubleshooting
 title: Github Page 'cannot load such file -- nokogiri/nokogiri' 에러
 subtitle: 깃헙 페이지를 만들 ㄸㅐ 생기는 오ㅠㄹ
 writer: 834588
 post-header: true
 header-img: img/about.jpg
-hash-tag: [App, Android, CD, Firebase, Fastlane]
+hash-tag: [Blog]
 ---
 
 ## 문제
