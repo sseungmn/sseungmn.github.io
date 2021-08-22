@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 올리브영 기술블로그
+title: MiniOS
 author: alldev
-email: oyalldev@gmail.com
+email: severck12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  CJ올리브영 서비스개발팀 '올디브' 기술 블로그
+  나의 작은 개발블로그
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://tech.oliveyoung.co.kr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sseungmn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
