@@ -7,7 +7,7 @@ title: Github Page 'cannot load such file -- nokogiri/nokogiri' 에러
 subtitle: 깃헙 페이지를 만들 때 생기는 오류
 post-header: true
 header-img: img/about.jpg
-hash-tag: [Blog]
+hash-tag: [Blog, Test, TroubleShooting]
 ---
 
 ## 문제

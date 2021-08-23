@@ -2,7 +2,10 @@
   label: 소개
 - id: tech
   label: 테크노트
-- id: recruit
-  label: 채용 정보
 - id: troubleshooting
   label: 트러블슈팅
+- id: essay
+  label: 마음의소리
+- id: tags
+  label: 모든태그
+
