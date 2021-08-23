@@ -2,13 +2,12 @@
 layout: post
 type: tech
 date: 2021-07-15 21:28
-category: App
+category: Problem Solving 
 title: 올리브영 안드로이드 테스트앱 자동배포하기
 subtitle: 니들은.. 수동배포 같은거 하지마라.. 😎
-writer: 834588
 post-header: true
 header-img: img/about.jpg
-hash-tag: [App, Android, CD, Firebase, Fastlane]
+hash-tag: [PS, 백준, CD, 프로그래머스, Fastlane]
 ---
 
 올-하! 💚 안녕하세요. 여러분! 올리브영에서 모바일 앱 개발을 담당하고있는 개발요정🧚‍♀️ 입니다.

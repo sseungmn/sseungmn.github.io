@@ -297,6 +297,7 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   jekyll-feed (~> 0.12)
+  jekyll-paginate (~> 1.1.0)
   jekyll-sitemap
   jemoji
   minima (~> 2.5)

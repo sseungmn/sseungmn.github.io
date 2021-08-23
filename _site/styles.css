@@ -92,7 +92,7 @@ footer .footer_wrap .copyright { text-align: center; font-size: 14px; }
 @media (max-width: 670px) { .home .section .title .label-emoji { font-size: 20px; } }
 .home .section .content { padding: 10px; margin-bottom: 50px; }
 .home .section .content.introduce a { color: #8564d8; }
-@media (max-width: 1000px) { .home .section .content table tr td { display: block; padding: 20px 10px; border-bottom: 1px solid #D8E0E7; } }
+@media (max-width: 1000px) { .home .section .content table tr td { display: block; padding: 10px 10px; border-bottom: 1px solid #D8E0E7; } }
 @media (max-width: 670px) { .home .section .content table tr td { padding: 20px 0; } }
 .home .section .content table tr td:last-child { border: none; }
 .home .section .content.video iframe { width: 100%; height: 450px; }
@@ -490,8 +490,8 @@ video { margin-bottom: 16px; }
 
 .catalogue-item { border-bottom: 1px solid rgba(0, 0, 0, 0.07); list-style: none; }
 .catalogue-item:last-child { border: none; }
-.catalogue-item.list { padding: 36px 0; }
-.catalogue-item.card { padding: 0 20px; border-bottom: none; }
+.catalogue-item.list { padding: 25px 0; }
+.catalogue-item.card { padding: 20px 20px; border-bottom: none; }
 .catalogue-item.card h1.catalogue-title { font-size: 20px; font-weight: 600; }
 @media (max-width: 670px) { .catalogue-item.card h1.catalogue-title { font-size: 17px; } }
 .catalogue-item.card p.catalogue-sub { font-size: 16px; }

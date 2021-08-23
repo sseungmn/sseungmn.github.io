@@ -2,10 +2,9 @@
 layout: post
 type: tech
 date: 2021-07-15 21:28
-category: App
+category: Tech
 title: 그냥 테스트 한번 해보기
 subtitle: 니들은.. 수동배포 같은거 하지마라.. 😎
-writer: 834588
 post-header: true
 header-img: img/about.jpg
 hash-tag: [App, iOS, CD, Firebase, Fastlane]
