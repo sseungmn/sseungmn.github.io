@@ -1,12 +1,12 @@
 ---
 layout: post
 type: troubleshooting
-date: 2021-08-23 16:59
+date: 2021-08-23 16:40
 category: Troubleshooting
 title: Github Page 'cannot load such file -- nokogiri/nokogiri' 에러
 subtitle: 깃헙 페이지를 만들 때 생기는 오류
 post-header: true
-header-img: img/about.jpg
+header-img: empty
 hash-tag: [Blog, Test, TroubleShooting]
 ---
 

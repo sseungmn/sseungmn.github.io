@@ -1,2 +1,10 @@
-<div class="post-header loading-animation" style="background-image: url('{{ page.header-img }}')">
+{% if page.header-img == "empty" %}
+    <!-- {% assign eader-img = /meta/ios.jpg %} -->
+    <div class="post-header loading-animation" style="background-image: url('/meta/default_img.jpg')">
+{% else %}
+    <!-- {% assign header-img = page.header-img %} -->
+    <div class="post-header loading-animation" style="background-image: url('{{ header-img }}')">
+{% endif %}
+<!-- <div class="post-header loading-animation" style="background-image: url('{{ page.header-img }}')"> -->
+<!-- <div class="post-header loading-animation" style="background-image: url('{{ header-img }}')"> -->
 </div>

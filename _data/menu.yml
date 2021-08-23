@@ -1,10 +1,10 @@
 - id: about
-  label: 소개
+  label: About
 - id: tech
-  label: 테크노트
+  label: Tech
 - id: troubleshooting
-  label: 트러블슈팅
+  label: TroubleShooting
 - id: essay
-  label: 마음의소리
+  label: Stroy
 - id: tags
-  label: 모든태그
+  label: Tags
