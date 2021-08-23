@@ -6,7 +6,7 @@ category: App
 title: 부스트캠프 챌린지 후기
 subtitle: 여러 방면에서 많은것을 배울 수 있었던 한달
 post-header: true
-header-img: img/about.png
+header-img: img/about.jpg
 hash-tag: [takeaway]
 ---
 
